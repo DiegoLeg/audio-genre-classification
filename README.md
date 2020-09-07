@@ -11,10 +11,9 @@ Three different notebooks are presented:
 
   - MFCC (Mel Frequency Cepstral Coefficients).
   - Spectral Centroid.
-  - Spectral Flux.
   - Zero Crossing Rate.
 
-- Also, the dataset is divided into train and test datasets, using 20% for testing.
+Also, the dataset is divided into train and test datasets, using 20% for testing.
 
 3. Model Training and Evaluation:
 
