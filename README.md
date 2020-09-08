@@ -33,15 +33,15 @@ To compare the result across multiple models, we have an additional fifth model,
 The main results for the different architectures is exposed. The best score for the test set is shown:
 
 | Model  | Accuracy | Version |
-| ------------- | ------------- | |
+| ------------------- |      :---:       |      :---:       |
 | K-Nearest Neighbors  | 0.64  | v1.2 |
 | Decision Tree  | 0.49 | v1.2 |
 | Random Forests | 0.61 | v1.1 |
-| Logistic Regression | 0.54 | v1.1|
+| Logistic Regression | 0.54 | v1.1 |
 
 In relation to the Deep Learning approach, the results are shown for the different models tested:
 
 | Model  | Accuracy | Version |
-| ------------- | ------------- | |
-| CNN2D  | -- | v1.2 |
-|   |   | |
+| ------------- |      :---:       |      :---:       |
+| CNN2D  |  | v1.2 |
+|   |   |  |
