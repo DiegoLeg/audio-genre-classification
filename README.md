@@ -28,7 +28,7 @@ However, a fifth model related to Neural Networks is on development.
 
 To compare the result across multiple models, we have an additional fifth model, related to Deep Learning and Neural Networks (on development). Thus, the classic Machine Learning approach of extracting features and then using a classifier is compared to a performance of a Convolutional Neural Network.
 
-# Results
+## Results
 
 The main results for the different architectures is exposed. The best score for the test set is shown:
 
